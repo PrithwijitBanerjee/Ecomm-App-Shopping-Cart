@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ecomm-shopping-cart-app/static/css/main.d3fd1e55.css",
+    "main.js": "/ecomm-shopping-cart-app/static/js/main.c6ac6f4c.js",
+    "static/js/453.4c1e8054.chunk.js": "/ecomm-shopping-cart-app/static/js/453.4c1e8054.chunk.js",
+    "service-worker.js": "/ecomm-shopping-cart-app/service-worker.js",
+    "index.html": "/ecomm-shopping-cart-app/index.html",
+    "main.d3fd1e55.css.map": "/ecomm-shopping-cart-app/static/css/main.d3fd1e55.css.map",
+    "main.c6ac6f4c.js.map": "/ecomm-shopping-cart-app/static/js/main.c6ac6f4c.js.map",
+    "453.4c1e8054.chunk.js.map": "/ecomm-shopping-cart-app/static/js/453.4c1e8054.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3fd1e55.css",
+    "static/js/main.c6ac6f4c.js"
+  ]
+}
